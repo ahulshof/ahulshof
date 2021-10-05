@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahulshof
-- 👀 I’m interested in Java, Kotlin, Python, angular, bootstap, AWS, GCP, OCP...
+- 👀 I’m interested in [Java](https://www.oracle.com/java/technologies/), Kotlin, Python, angular, bootstap, AWS, GCP, OCP...
 - 🌱 I’m currently learning AWS Software Architect Professional
 - 📫 How to reach me through here, or jaap.swaf@gmail.com
 
